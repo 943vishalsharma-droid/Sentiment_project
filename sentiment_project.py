@@ -27,7 +27,7 @@ st.markdown("""
     </div>
 """, unsafe_allow_html=True)
 
-st.sidebar.image("D:/Machine learning my work in jupyter lab\Hotel.jpeg")
+st.sidebar.image("Hotel.jpeg")
 
 st.sidebar.title("About Project")
 st.sidebar.write("Prediction of Sentiement Neg or Pos for a food review")
